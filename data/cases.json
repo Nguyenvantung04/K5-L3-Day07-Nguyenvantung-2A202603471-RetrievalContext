@@ -1,0 +1,174 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Khối lượng học tập toàn khóa tối thiểu đối với trình độ cử nhân là bao nhiêu tín chỉ?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Thời gian học tập tối đa cho chương trình đào tạo chuẩn 4 năm là bao lâu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Một tín chỉ học phần lý thuyết được quy chuẩn bằng bao nhiêu tiết giảng dạy trên lớp?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Học phần tiên quyết khác với học phần học trước như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Chuẩn đầu ra ngoại ngữ tối thiểu đối với sinh viên tốt nghiệp chương trình đại học chính quy là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Số tín chỉ tối thiểu và tối đa mà sinh viên được đăng ký trong mỗi học kỳ chính là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Sinh viên đang bị cảnh báo học tập thì được đăng ký tối đa bao nhiêu tín chỉ trong học kỳ kế tiếp?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Thời hạn cho phép rút bớt học phần đã đăng ký trong học kỳ chính là bao lâu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Sinh viên được phép đăng ký học cải thiện điểm đối với các học phần đạt điểm mấy?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Điều kiện về điểm CPA để sinh viên được đăng ký học chương trình đào tạo thứ hai (ngành kép) là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Điểm thi kết thúc học phần chiếm tỷ trọng bao nhiêu phần trăm trong tổng điểm học phần lý thuyết?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Sinh viên cần đáp ứng điều kiện chuyên cần nào để được dự thi kết thúc học phần?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Điểm tổng kết thang 10 từ 8.5 đến 10.0 quy đổi sang điểm chữ và thang 4 là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Điểm số của các học phần Giáo dục thể chất và Giáo dục quốc phòng có tính vào điểm GPA hay CPA không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Sinh viên năm thứ nhất có điểm CPA dưới bao nhiêu thì bị áp dụng cảnh báo học vụ?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Sinh viên bị buộc thôi học khi bị cảnh báo học tập bao nhiêu lần liên tiếp?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Điều kiện về số tín chỉ tích lũy tối thiểu trong học kỳ để sinh viên được xét học bổng khuyến khích học tập là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Để được nhận làm đồ án hoặc khóa luận tốt nghiệp, sinh viên phải tích lũy tối thiểu bao nhiêu phần trăm số tín chỉ của chương trình và điểm CPA tối thiểu là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Điểm trung bình chung tích lũy toàn khóa CPA tối thiểu để sinh viên được xét công nhận tốt nghiệp đại học là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Sinh viên có điểm CPA đạt mức Xuất sắc sẽ bị hạ một bậc xếp loại tốt nghiệp xuống loại Giỏi trong những trường hợp nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_unans_dev_01",
+    "split": "dev",
+    "question": "Quy định về thời gian đào tạo tiêu chuẩn của chương trình Tiến sĩ là bao nhiêu năm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu chỉ quy định hệ Cử nhân và Kỹ sư đại học, không có quy định bậc Tiến sĩ."
+  },
+  {
+    "id": "q_unans_dev_02",
+    "split": "dev",
+    "question": "Sinh viên cần đạt điểm rèn luyện bao nhiêu để được cấp học bổng du học toàn phần tại Nhật Bản?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Văn bản không có điều khoản quy định về học bổng du học tại Nhật Bản."
+  },
+  {
+    "id": "q_unans_test_01",
+    "split": "test",
+    "question": "Mức phạt tiền mặt cụ thể khi sinh viên làm mất sách giáo trình của thư viện trường là bao nhiêu?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Quy chế đào tạo tín chỉ không chứa quy định mức phạt tiền mặt đối với dịch vụ thư viện."
+  },
+  {
+    "id": "q_unans_test_02",
+    "split": "test",
+    "question": "Học viên cao học cần tích lũy tối thiểu bao nhiêu tín chỉ để được cấp bằng Thạc sĩ?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Quy chế chỉ điều chỉnh phạm vi đào tạo đại học chính quy, không có đào tạo bậc Thạc sĩ."
+  }
+]
