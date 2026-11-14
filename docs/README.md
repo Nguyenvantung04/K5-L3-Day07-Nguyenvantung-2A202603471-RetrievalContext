@@ -13,6 +13,7 @@
 ### A. Dữ liệu Corpus & Chunks
 - **Chủ đề:** Quy chế Đào tạo Trình độ Đại học theo Hệ thống Tín chỉ (Chính quy tập trung).
 - **Văn bản gốc:** 36 trang nội dung hoàn chỉnh (loại bỏ bìa/mục lục), tổng cộng 35.010 ký tự Unicode NFC chuẩn hóa. Nguồn công khai (Public Domain theo Điều 19 Luật Sở hữu trí tuệ).
+- **File tài liệu PDF gốc:** [`docs/corpus.pdf`](corpus.pdf)
 - **Cấu trúc Chunks:** Kế thừa từ Strategy B của Day 6 (cắt theo ranh giới đoạn văn bản `\n\n` hoặc điều khoản/khoản luật, `max_size = 800` ký tự).
   - Tổng số chunks: **73 chunks**.
   - File lưu trữ: [`data/chunks.json`](../data/chunks.json).

@@ -10,7 +10,7 @@
 ## Dữ liệu và benchmark
 
 - **Nguồn, quyền sử dụng, số trang và số chunk:**
-  - *Nguồn và quyền sử dụng:* Văn bản Quy chế Đào tạo Trình độ Đại học theo Hệ thống Tín chỉ (áp dụng cho đào tạo chính quy tập trung). Căn cứ theo Điều 19 Luật Sở hữu trí tuệ Việt Nam, văn bản quy phạm và hành chính quản lý giáo dục thuộc phạm vi *Public Domain*, được phép tự do nghiên cứu, trích xuất và phân tích học thuật.
+  - *Nguồn và quyền sử dụng:* Văn bản Quy chế Đào tạo Trình độ Đại học theo Hệ thống Tín chỉ (áp dụng cho đào tạo chính quy tập trung), file gốc lưu tại [docs/corpus.pdf](../../docs/corpus.pdf). Căn cứ theo Điều 19 Luật Sở hữu trí tuệ Việt Nam, văn bản quy phạm và hành chính quản lý giáo dục thuộc phạm vi *Public Domain*, được phép tự do nghiên cứu, trích xuất và phân tích học thuật.
   - *Số trang và số ký tự:* 36 trang nội dung hoàn chỉnh (không tính bìa/mục lục), tổng cộng 35.010 ký tự chuẩn hóa Unicode NFC.
   - *Số chunk:* **73 chunks** kế thừa từ Strategy B của Day 6 (cắt theo ranh giới đoạn văn bản `\n\n` và các điều khoản/khoản luật, giới hạn `max_size = 800` ký tự). Lưu tại [data/chunks.json](file:///c:/Users/FPTShop/Downloads/vinunin/K5-L3-Day07-Nguyenvantung-2A202603471-RetrievalContext/data/chunks.json).
 
